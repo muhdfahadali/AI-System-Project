@@ -1,0 +1,3 @@
+ProblemNo,FromStation,ToStation,Schedule,CostFunction
+40,NZM,BN,mini-schedule.csv,price
+41,NLDA,MAG,mini-schedule.csv,price
